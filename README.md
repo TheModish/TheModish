@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheModish, a begginer developer who likes to learn new things everyday 
 - 👀 I’m interested in software developing ,automatization and making the world a better place
-- 🌱 I’m currently learning Computer Science in Polytechnic University Of Bucharest
+- 🌱 I’m currently learning Computer Science in Politehnica University Of Bucharest
 -  📫 How to reach me:
 -  LinkedIn:https://www.linkedin.com/in/magetzradumihai/
 -  discord:Radu#0531
